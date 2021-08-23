@@ -1,10 +1,7 @@
 #-------------------------
 # Operating Specific Junk Files
 #-------------------------
-/app
-/public
-/system
-/writable
+
 # OS X
 .DS_Store
 .AppleDouble
